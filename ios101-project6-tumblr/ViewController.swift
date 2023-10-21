@@ -27,6 +27,18 @@ class ViewController: UIViewController, UITableViewDataSource {
         
         detailViewController.post = selectedPost
     }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        // Customary to call the overridden method on `super` any time you override a method.
+        super.viewWillAppear(animated)
+
+        // get the index path for the selected row
+        if let selectedIndexPath = tableView.indexPathForSelectedRow {
+
+            // Deselect the currently selected row
+            tableView.deselectRow(at: selectedIndexPath, animated: animated)
+        }
+    }
 
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return posts.count
