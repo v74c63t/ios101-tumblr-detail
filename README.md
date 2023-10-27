@@ -2,7 +2,7 @@
 
 Submitted by: **Vanessa Tang**
 
-**Tumblr Detail** is an app that ... [TODO] 
+**Tumblr Detail** is an app that fetches data from the humans of new york tumblr blog and displays that data in a table view. It also allows users to click on a post bringing up a new view that shows them more information about the post.
 
 Time spent: **1** hours spent in total
 
