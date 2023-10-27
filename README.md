@@ -2,7 +2,7 @@
 
 Submitted by: **Vanessa Tang**
 
-**Tumblr Detail** is an app that ... [TODO] 
+**Tumblr Detail** is an app that fetches data from the humans of new york tumblr blog and displays that data in a table view. It also allows users to click on a post bringing up a new view that shows them more information about the post.
 
 Time spent: **1** hours spent in total
 
@@ -22,9 +22,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<!-- Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) . -->
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
